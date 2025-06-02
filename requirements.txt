@@ -1,0 +1,9 @@
+fastapi==0.115.12
+uvicorn==0.34.3
+xgboost==3.0.2
+numpy==2.2.6
+scikit-learn==1.6.1
+pydantic==2.11.5
+python-dateutil==2.9.0.post0
+prometheus-client==0.20.0
+requests==2.32.3
